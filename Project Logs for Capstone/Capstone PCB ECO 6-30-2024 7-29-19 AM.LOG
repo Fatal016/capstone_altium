@@ -1,0 +1,229 @@
+Removed Member From Class: ClassName=Capstone Member=U?
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Add Component: Footprint Not Found CONN_PPPC041LGBN-RC_SUL
+Added Component: Designator=J3(CONN_M20-78210xx_HRW)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Headers, Receptacles, Female Sockets"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CONN_PPPC021_SUL
+Added Component: Designator=SW1(FP-EVPASAC1A-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "6.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "90°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "1.6N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "1.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "J-Bend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP-100_STM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOT-23-OT5_M)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/21805a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revA, May-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Lead Plastic Small Outline Transistor (OT) [SOT-23]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23-OT5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "URLs added."; VariantName = "[No Variations]"
+Added Component: Designator=U3(DSG0008A_V)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-229"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS62163&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/litv/pdf/mpds308a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "URL Link1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "Samples URL:http://www.ti.com/product/tps54611#samples"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SLVSAM2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Duty Cycle(Max)(%)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iout(Max)(A)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq(Typ)(mA)"; Value = "0.017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic Small Outline No-Lead, 2 x 2 x 0.8 mm Body, 0.5 mm Pitch, Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DSG0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Oct-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TPS62163DSGT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Preset Vout(V)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Regulated Outputs(#)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Step-Down Regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Current Limit(Typ)(A)"; Value = "1.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Max)(V)"; Value = "17"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Min)(V)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout(Max)(V)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout(Min)(V)"; Value = "5"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(FP-ABM8G-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "60R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "24MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ABM8G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "60R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=J2-1
+Added Pin To Net: NetName=3.3V Pin=J3-9
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Net: Name=5V
+Added Pin To Net: NetName=DEBUG_SWCLK Pin=U1-76
+Added Net: Name=DEBUG_SWCLK
+Added Pin To Net: NetName=DEBUG_SWDIO Pin=U1-72
+Added Net: Name=DEBUG_SWDIO
+Added Pin To Net: NetName=DISP_CARD_CS Pin=J3-6
+Added Pin To Net: NetName=DISP_CARD_CS Pin=U1-3
+Added Net: Name=DISP_CARD_CS
+Added Pin To Net: NetName=DISP_DC Pin=J3-7
+Added Pin To Net: NetName=DISP_DC Pin=U1-2
+Added Net: Name=DISP_DC
+Added Pin To Net: NetName=DISP_LITE Pin=J3-1
+Added Pin To Net: NetName=DISP_LITE Pin=U1-5
+Added Net: Name=DISP_LITE
+Added Pin To Net: NetName=DISP_MISO Pin=J3-2
+Added Pin To Net: NetName=DISP_MISO Pin=U1-17
+Added Net: Name=DISP_MISO
+Added Pin To Net: NetName=DISP_MOSI Pin=J3-4
+Added Pin To Net: NetName=DISP_MOSI Pin=U1-16
+Added Net: Name=DISP_MOSI
+Added Pin To Net: NetName=DISP_RST Pin=J3-8
+Added Pin To Net: NetName=DISP_RST Pin=U1-1
+Added Net: Name=DISP_RST
+Added Pin To Net: NetName=DISP_SCK Pin=J3-3
+Added Pin To Net: NetName=DISP_SCK Pin=U1-47
+Added Net: Name=DISP_SCK
+Added Pin To Net: NetName=DISP_TFT_CS Pin=J3-5
+Added Pin To Net: NetName=DISP_TFT_CS Pin=U1-4
+Added Net: Name=DISP_TFT_CS
+Added Pin To Net: NetName=DIST_ECHO Pin=U1-40
+Added Net: Name=DIST_ECHO
+Added Pin To Net: NetName=DIST_TRIG Pin=U1-41
+Added Net: Name=DIST_TRIG
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=SW1-B
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=GND Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-74
+Added Pin To Net: NetName=GND Pin=U1-94
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=U3-2
+Added Pin To Net: NetName=NetC1_2 Pin=U3-3
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=SW1-A
+Added Pin To Net: NetName=NetC3_1 Pin=U1-14
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetL1_1 Pin=U3-7
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetR1_2 Pin=U2-3
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_1 Pin=U3-6
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=U3-8
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=NetU1_6 Pin=U1-11
+Added Pin To Net: NetName=NetU1_6 Pin=U1-22
+Added Pin To Net: NetName=NetU1_6 Pin=U1-28
+Added Pin To Net: NetName=NetU1_6 Pin=U1-50
+Added Pin To Net: NetName=NetU1_6 Pin=U1-73
+Added Pin To Net: NetName=NetU1_6 Pin=U1-75
+Added Pin To Net: NetName=NetU1_6 Pin=U1-100
+Added Net: Name=NetU1_6
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=NetU1_12 Pin=Y1-3
+Added Net: Name=NetU1_12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_13 Pin=Y1-1
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=PWR_SCL Pin=U1-92
+Added Pin To Net: NetName=PWR_SCL Pin=U2-5
+Added Net: Name=PWR_SCL
+Added Pin To Net: NetName=PWR_SDA Pin=U1-89
+Added Pin To Net: NetName=PWR_SDA Pin=U2-4
+Added Net: Name=PWR_SDA
+Added Pin To Net: NetName=WIFI_CS Pin=J2-6
+Added Pin To Net: NetName=WIFI_CS Pin=U1-64
+Added Net: Name=WIFI_CS
+Added Pin To Net: NetName=WIFI_EN Pin=J2-7
+Added Pin To Net: NetName=WIFI_EN Pin=U1-65
+Added Net: Name=WIFI_EN
+Added Pin To Net: NetName=WIFI_IRQ Pin=J2-8
+Added Pin To Net: NetName=WIFI_IRQ Pin=U1-68
+Added Net: Name=WIFI_IRQ
+Added Pin To Net: NetName=WIFI_MISO Pin=J2-4
+Added Pin To Net: NetName=WIFI_MISO Pin=U1-31
+Added Net: Name=WIFI_MISO
+Added Pin To Net: NetName=WIFI_MOSI Pin=J2-5
+Added Pin To Net: NetName=WIFI_MOSI Pin=U1-32
+Added Net: Name=WIFI_MOSI
+Added Pin To Net: NetName=WIFI_RST Pin=J2-9
+Added Pin To Net: NetName=WIFI_RST Pin=U1-69
+Added Net: Name=WIFI_RST
+Added Pin To Net: NetName=WIFI_SCK Pin=J2-3
+Added Pin To Net: NetName=WIFI_SCK Pin=U1-30
+Added Net: Name=WIFI_SCK
+Added Pin To Net: NetName=WIFI_WAKE Pin=J2-10
+Added Pin To Net: NetName=WIFI_WAKE Pin=U1-70
+Added Net: Name=WIFI_WAKE
+Added Class: Name=Buck Converter
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component J1 PPPC041LGBN-RC
+Added Member To Class: ClassName=Capstone Member=Component J3 M20-7821046
+Add Class Member: Failed to add class member : Component J4 PPPC021LFBN-RC
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Added Member To Class: ClassName=Capstone Member=Component SW1 EVPASAC1A
+Added Member To Class: ClassName=Capstone Member=Component U1 STM32U5A5VJT6
+Added Member To Class: ClassName=Capstone Member=Component U2 MCP3021A5T-E/OT
+Added Member To Class: ClassName=Capstone Member=Component Y1 ABM8G-24.000MHZ-B4Y-T3
+Added Rule: Name=Schematic Supply Nets

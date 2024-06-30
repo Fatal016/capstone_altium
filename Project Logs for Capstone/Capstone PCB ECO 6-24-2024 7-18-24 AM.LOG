@@ -1,0 +1,12 @@
+Added Component: Designator=J?(CONN_M20-78210xx_HRW)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Headers, Receptacles, Female Sockets"; VariantName = "[No Variations]"
+Added Component: Designator=U?(LQFP-100_STM)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA5 Pin=J?-3
+Added Pin To Net: NetName=PA5 Pin=U?-30
+Added Net: Name=PA5
+Added Class: Name=Capstone
