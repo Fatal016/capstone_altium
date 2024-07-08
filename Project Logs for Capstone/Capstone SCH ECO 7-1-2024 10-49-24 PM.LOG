@@ -1,0 +1,13 @@
+Remove Pin=J1-2 From Net=DIST_ECHO
+Remove Pin=J1-3 From Net=DIST_TRIG
+Remove Pin=J1-4 From Net=5V
+Remove Pin=J2-1 From Net=3.3V
+Remove Pin=J3-9 From Net=3.3V
+Remove Pin=J4-1 From Net=DEBUG_SWDIO
+Remove Pin=J4-2 From Net=DEBUG_SWCLK
+Remove Pin=U2-1 From Net=5V
+Change Component Footprint: Designator=U3 Old Footprint=DBV0006A-MFG New Footprint=DSG0008A_V
+Change Component Comment: Designator=U3 Old Comment=LMR54410DBVR New Comment=TPS62163DSGT
+Change Pin Designator/Name:  Old Designator=U3-2 Old Name=GND New Designator =CB New Name=1
+Change Pin Designator/Name:  Old Designator=U3-3 Old Name=FB New Designator =SW New Name=6
+Change Pin Designator/Name:  Old Designator=U3-6 Old Name=SW New Designator =GND New Name=2
