@@ -176,6 +176,10 @@ DItemRevisionGUID=
 DocumentPath=Simulation\Capstone.sdf
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Capstone\Design Rule Check - Capstone.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
