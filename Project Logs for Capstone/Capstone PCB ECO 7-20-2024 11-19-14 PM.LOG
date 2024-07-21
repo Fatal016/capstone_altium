@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PWR_SCL Pin=U1-92
+Removed Pin From Net: NetName=PWR_SDA Pin=U1-93
+Added Pin To Net: NetName=3.3V Pin=C20-1
+Added Pin To Net: NetName=3.3V Pin=C21-1
+Added Pin To Net: NetName=3.3V Pin=U1-21
+Added Pin To Net: NetName=PWR_SCL Pin=U1-52
+Added Pin To Net: NetName=PWR_SDA Pin=U1-53

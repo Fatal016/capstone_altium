@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetU1_13 Pin=Y1-1
+Removed Pin From Net: NetName=GND Pin=Y1-2
+Removed Pin From Net: NetName=NetU1_12 Pin=Y1-3
+Removed Pin From Net: NetName=GND Pin=Y1-4
+Removed Member From Class: ClassName=Capstone Member=Y1
+Added Component: Designator=Y?(9C7680MBBKT)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "9C-8.000MEEJ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/9c-8.000meej-t/txc-corporation?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.txccrystal.com/images/pdf/9c-accuracy.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TXC CORPORATION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "9C-8.000MEEJ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "717-9C-8.000MEEJ-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TXC-Corporation/9C-8000MEEJ-T?qs=65dIHZNch5tI7l8164Zoqw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetU1_13 Pin=Y?-1
+Added Pin To Net: NetName=NetU1_12 Pin=Y?-2
+Added Member To Class: ClassName=Capstone Member=Component Y? 9C-8.000MEEJ-T

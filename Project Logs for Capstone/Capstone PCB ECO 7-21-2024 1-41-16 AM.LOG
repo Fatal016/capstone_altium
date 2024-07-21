@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DIST_TRIG Pin=U1-41
+Added Pin To Net: NetName=DIST_TRIG Pin=U1-39

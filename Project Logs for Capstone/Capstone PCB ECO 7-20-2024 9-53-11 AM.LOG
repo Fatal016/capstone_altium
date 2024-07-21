@@ -1,0 +1,10 @@
+Added Component: Designator=S?(PTS645SK43SMTR92LFS)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PTS645SK43SMTR92LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pts645sk43smtr92lfs/ck?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ckswitches.com/media/1471/pts645.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS645SK43SMTR92LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS645SK43SMTR92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/PTS645SK43SMTR92LFS?qs=UxeAxwACbqlWa%2Fy4o%252BzfBw%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Capstone Member=Component S? PTS645SK43SMTR92LFS
