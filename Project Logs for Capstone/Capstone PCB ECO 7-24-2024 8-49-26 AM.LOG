@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DISP_MISO Pin=C25-2
+Added Pin To Net: NetName=NRST Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Member To Class: ClassName=Capstone Member=Component C25 .1uF
