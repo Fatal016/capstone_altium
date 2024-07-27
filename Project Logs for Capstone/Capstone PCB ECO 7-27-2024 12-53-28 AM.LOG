@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=J7 Old Footprint=M20-7910642R New Footprint=PPPC061LGBNRC
+Change Component Comment : Designator=J7 Old Comment=M20-7910642R New Comment=PPPC061LGBN-RC
+Change component parameters: Designator = "J7" ("J7"); Footprint = "M20-7910642R"; UniqueID = "\UTBSBFOM" ("\UTBSBFOM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://drawings-pdf.s3.amazonaws.com/10493.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.74mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC061LGBN-RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"

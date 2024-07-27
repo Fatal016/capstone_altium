@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=SW3.3 Pin=L1-1
+Removed Pin From Net: NetName=3.3V Pin=L1-2
+Removed Pin From Net: NetName=SW5 Pin=L2-1
+Removed Pin From Net: NetName=5V Pin=L2-2
+Removed Member From Class: ClassName=U_Buck Converter 3.3V Member=L1
+Removed Member From Class: ClassName=U_Buck Converter 5V Member=L2
+Change Component Footprint: Designator=L1 Old Footprint=FP-LQM21PH_G0-IPC_C New Footprint=WE-PD_7345
+Change Component Footprint: Designator=L2 Old Footprint=FP-LQM21PH_G0-IPC_C New Footprint=WE-PD_7345
+Change Component Comment : Designator=L1 Old Comment=4.7uH New Comment=74477710
+Change Component Comment : Designator=L2 Old Comment=4.7uH New Comment=74477710
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5EB864EA-1C23-433A-B7DE-03A15916E0BB New ItemGUID=09627251-4058-48B9-8402-DCCBB1DBAC95 Old RevisionGUID=24A0A217-06AF-4190-81B2-131EA65BD48F New RevisionGUID=C2FEADDE-4FDB-449B-8AF3-3886EF9C311F
+Change Managed Component Library Link : Designator=L2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=5EB864EA-1C23-433A-B7DE-03A15916E0BB New ItemGUID=09627251-4058-48B9-8402-DCCBB1DBAC95 Old RevisionGUID=24A0A217-06AF-4190-81B2-131EA65BD48F New RevisionGUID=C2FEADDE-4FDB-449B-8AF3-3886EF9C311F
+Change component parameters: Designator = "L1" ("L1"); Footprint = "FP-LQM21PH_G0-IPC_C"; UniqueID = "\AIYNAZFR\QQRUKGGF" ("\AIYNAZFR\QQRUKGGF")
+Change component parameters (AddParameter): Name = "Ambient Temperature Range High"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Wirewound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "45mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "7.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "4.4958mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "10µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max DC Current"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "11853718"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current"; Value = "2.6A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "23MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Frequency"; Value = "1kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "7.3mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L2" ("L2"); Footprint = "FP-LQM21PH_G0-IPC_C"; UniqueID = "\UNCALPRQ\QHCYQUME" ("\UNCALPRQ\QHCYQUME")
+Change component parameters (AddParameter): Name = "Ambient Temperature Range High"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Nonstandard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Wirewound"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Resistance (DCR)"; Value = "45mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "7.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "4.4958mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance"; Value = "10µH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inductance Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max DC Current"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "11853718"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Saturation Current"; Value = "2.6A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Self Resonant Frequency"; Value = "23MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Test Frequency"; Value = "1kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "7.3mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SW5 Pin=L1-1
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=SW3.3 Pin=L2-1
+Added Pin To Net: NetName=3.3V Pin=L2-2
+Added Member To Class: ClassName=U_Buck Converter 5V Member=Component L1 74477710
+Added Member To Class: ClassName=U_Buck Converter 3.3V Member=Component L2 74477710

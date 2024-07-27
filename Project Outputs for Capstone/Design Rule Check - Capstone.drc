@@ -1,11 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\016er\OneDrive\Documents\Altium\Capstone\Capstone.PcbDoc
-Date     : 7/24/2024
-Time     : 10:24:49 AM
-
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: NONET_L-01_P-001 In net GND On Bottom Layer 1
-   Polygon named: NONET_L-01_P-001 In net GND On Bottom Layer 1
+Date     : 7/27/2024
+Time     : 4:57:04 AM
 
 Processing Rule : Clearance Constraint (Gap=3.5mil) (All),(All)
 Rule Violations :0
@@ -17,8 +13,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L-01_P-001) on Bottom Layer 1 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=3.5mil) (Max=10mil) (Preferred=10mil) (All)
 Rule Violations :0
@@ -54,6 +49,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 1
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:06
+Time Elapsed        : 00:00:02

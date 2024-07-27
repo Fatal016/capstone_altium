@@ -1,0 +1,11 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Capstone.PcbDoc]
+   Generated File[Capstone.EXTREP]
+   Generated File[Capstone.REP]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 5:42:12 AM On 7/27/2024

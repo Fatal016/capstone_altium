@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=V_IN Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Member From Class: ClassName=Capstone Member=J5
+Added Component: Designator=J?(RHDRRA2W60P0X254_1X2_558X850X274P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.sullinscorp.com/drawings/78_P(N)PxCxx1LGBN-RC,_10493-G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.74mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PPPC021LGBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_IN Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=Capstone Member=Component J? PPPC021LGBN-RC
