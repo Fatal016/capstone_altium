@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Capstone.GBR   7/27/2024  6:00:29 AM
+Gerber File Extension Report For: Capstone.GBR   8/9/2024  4:23:44 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -18,8 +18,10 @@ Layer Extension     Layer Description
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
 .GM3                Top Designator                          
+.GM4                Bottom Designator                       
 .GM5                Top Assembly                            
 .GM11               Top Component Outline                   
+.GM12               Bottom Component Outline                
 .GM13               Top 3D Body                             
 .GM15               Top Courtyard                           
 .GM16               Top Component Center                    
@@ -27,8 +29,13 @@ Layer Extension     Layer Description
 .GM21               Bottom Courtyard                        
 .GM23               Bottom 3D Body                          
 .GM24               Bottom Component Center                 
+.GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
+.1                  Dielectric 1                            
+.GML                Multi-Layer                             
+.2                  Dielectric 2                            
+.3                  Dielectric 3                            
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 .GM                 Profile                                 

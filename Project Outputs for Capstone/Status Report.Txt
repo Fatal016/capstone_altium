@@ -1,12 +1,44 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Capstone.PrjPcb]
-   Generated File[Capstone.TXT]
-   Generated File[Capstone.LDP]
-   Generated File[Capstone.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Capstone.PrjPcb]
+   Generated File[Capstone.GTO]
+   Generated File[Capstone.GTP]
+   Generated File[Capstone.GTS]
+   Generated File[Capstone.GTL]
+   Generated File[Capstone.GP1]
+   Generated File[Capstone.GP2]
+   Generated File[Capstone.GBL]
+   Generated File[Capstone.GBS]
+   Generated File[Capstone.GBP]
+   Generated File[Capstone.GBO]
+   Generated File[Capstone.GM1]
+   Generated File[Capstone.GM3]
+   Generated File[Capstone.GM4]
+   Generated File[Capstone.GM5]
+   Generated File[Capstone.GM11]
+   Generated File[Capstone.GM12]
+   Generated File[Capstone.GM13]
+   Generated File[Capstone.GM15]
+   Generated File[Capstone.GM16]
+   Generated File[Capstone.GM20]
+   Generated File[Capstone.GM21]
+   Generated File[Capstone.GM23]
+   Generated File[Capstone.GM24]
+   Generated File[Capstone.GKO]
+   Generated File[Capstone.GPT]
+   Generated File[Capstone.GPB]
+   Generated File[Capstone.1]
+   Generated File[Capstone.GML]
+   Generated File[Capstone.2]
+   Generated File[Capstone.3]
+   Generated File[Capstone.GD1]
+   Generated File[Capstone.GG1]
+   Generated File[Capstone.GM]
+   Generated File[Capstone.EXTREP]
+   Generated File[Capstone.REP]
 
 
-Files Generated   : 3
+Files Generated   : 35
 Documents Printed : 0
 
-Finished Output Generation At 6:09:29 AM On 7/27/2024
+Finished Output Generation At 4:23:45 PM On 8/9/2024

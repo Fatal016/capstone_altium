@@ -2,35 +2,6 @@
 FileName = Capstone.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Courtyard
-      File : Capstone.GM15
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D10
-    D12
-    D13
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : Capstone.GM13
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-    D10
-    D12
-    D15
-    D58
-    D59
-*************************************************************
-
-*************************************************************
 Generating : Top Layer 1
       File : Capstone.GTL
 
@@ -41,6 +12,7 @@ Generating : Top Layer 1
 
 Used DCodes :
     D14
+    D15
     D16
     D17
     D18
@@ -53,15 +25,15 @@ Used DCodes :
     D25
     D26
     D27
-    D28
-    D44
-    D45
     D46
     D47
     D48
     D49
     D50
     D51
+    D52
+    D53
+    D54
 *************************************************************
 
 *************************************************************
@@ -74,119 +46,38 @@ Generating : GND
 
 
 Used DCodes :
-    D52
-    D53
-    D54
     D55
     D56
-*************************************************************
-
-*************************************************************
-Generating : Bottom Component Center
-      File : Capstone.GM24
-
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top Designator
-      File : Capstone.GM3
-
-    Adding Layer      : Top Designator
-
-
-Used DCodes :
     D57
-*************************************************************
-
-*************************************************************
-Generating : Bottom Courtyard
-      File : Capstone.GM21
-
-    Adding Layer      : Bottom Courtyard
-
-
-Used DCodes :
-    D10
+    D58
+    D59
     D60
+    D61
+    D62
+    D63
+    D64
 *************************************************************
 
 *************************************************************
-Generating : Top Component Outline
-      File : Capstone.GM11
+Generating : POWER
+      File : Capstone.GP2
 
-    Adding Layer      : Top Component Outline
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom 3D Body
-      File : Capstone.GM23
-
-    Adding Layer      : Bottom 3D Body
-
-
-Used DCodes :
-    D10
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : Capstone.GM5
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D10
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Capstone.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Capstone.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer 1
+    Adding Layer      : POWER
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
+    D14
+    D55
+    D56
+    D57
+    D58
+    D60
+    D61
+    D62
+    D64
+    D65
 *************************************************************
 
 *************************************************************
@@ -200,51 +91,42 @@ Generating : Bottom Layer 1
 
 Used DCodes :
     D14
-    D27
-    D28
-    D45
-    D46
+    D19
+    D22
     D47
     D48
     D49
     D50
     D51
+    D52
+    D53
+    D54
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : Capstone.GTO
+Generating : Top Designator
+      File : Capstone.GM3
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top Designator
 
 
 Used DCodes :
-    D10
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Capstone.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
     D11
     D12
     D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Capstone.GPB
-
-    Adding Layer      : Bottom Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D28
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
+    D66
+    D67
 *************************************************************
 
 *************************************************************
@@ -255,78 +137,8 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D10
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Capstone.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D28
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Capstone.GPT
-
-    Adding Layer      : Top Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Capstone.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D27
-    D28
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
+    D11
+    D13
 *************************************************************
 
 *************************************************************
@@ -341,10 +153,9 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D19
-    D20
-    D22
-    D27
+    D15
+    D16
+    D26
     D28
     D29
     D30
@@ -361,17 +172,131 @@ Used DCodes :
     D41
     D42
     D43
+    D44
+    D45
 *************************************************************
 
 *************************************************************
-Generating : Bottom Assembly
-      File : Capstone.GM20
+Generating : Bottom Solder
+      File : Capstone.GBS
 
-    Adding Layer      : Bottom Assembly
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
+    D30
+    D33
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Capstone.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Capstone.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Capstone.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Capstone.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Capstone.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Capstone.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Capstone.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+    D13
+    D68
 *************************************************************
 
 *************************************************************
@@ -382,25 +307,181 @@ Generating : Top Component Center
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Capstone.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Capstone.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D12
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : Capstone.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Capstone.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
     D12
 *************************************************************
 
 *************************************************************
-Generating : POWER
-      File : Capstone.GP2
+Generating : Dielectric 1
+      File : Capstone.1
 
-    Adding Layer      : POWER
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Capstone.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : Capstone.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Capstone.GPT
+
+    Adding Layer      : Top Layer 1
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D47
+    D48
+    D49
+    D50
+    D51
     D52
-    D53
-    D54
-    D55
-    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Capstone.GPB
+
+    Adding Layer      : Bottom Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D22
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : Capstone.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : Capstone.GM4
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : Capstone.GM12
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : Capstone.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
 *************************************************************
 
 *************************************************************
@@ -413,8 +494,8 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D61
-    D62
+    D69
+    D70
 *************************************************************
 
 *************************************************************
@@ -427,7 +508,7 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D61
+    D70
 *************************************************************
 
 *************************************************************
@@ -436,6 +517,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D63
+    D71
 *************************************************************
 

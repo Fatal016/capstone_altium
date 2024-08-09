@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC13_2
+Added Member To Class: ClassName=Capstone Member=Component C13 2.2uF
