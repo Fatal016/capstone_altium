@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DEBUG_SWO Pin=J7-1
+Removed Pin From Net: NetName=NRST Pin=J7-2
+Removed Pin From Net: NetName=DEBUG_SWDIO Pin=J7-3
+Removed Pin From Net: NetName=GND Pin=J7-4
+Removed Pin From Net: NetName=DEBUG_SWCLK Pin=J7-5
+Removed Pin From Net: NetName=5V Pin=J7-6
+Added Pin To Net: NetName=5V Pin=J7-1
+Added Pin To Net: NetName=DEBUG_SWCLK Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=DEBUG_SWDIO Pin=J7-4
+Added Pin To Net: NetName=NRST Pin=J7-5
+Added Pin To Net: NetName=DEBUG_SWO Pin=J7-6
